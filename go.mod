@@ -1,3 +1,3 @@
-module main
+module courses-go
 
 go 1.18
